@@ -1,0 +1,49 @@
+Notes from 3/3/25
+
+s1 - Hello world 
+    - Class plan
+
+s2 - Language learning
+    - Get an idea of how much you know
+
+s3 - Study a library (Real world application. Has documentation, examples, etc.)
+
+s4 - Build a library
+    - Plan unit tests
+
+s5 - Write something using your library
+
+s6 - App Using???? What does this mean? 
+
+
+How to find the right resources: (imagine we are learning Swift)
+- Just look it up
+- W3schools is so good
+- Big youtube crash courses 
+- Original website
+- ChatGPT
+- Go find the Big Name who knows everything, they probably have resources
+- Tutorials and courses
+- Books (You can annotate and tag things)
+
+
+(Q) - How do I set everything up so I can run things? This is overwhelming. 
+(A) - Find a tutorial. 
+    Make a tutorial if you need. Save it. You will probably need it later :]
+    Make a simple hello world project to make sure you have it all set up! 
+(Q) - How do I create a good plan if I don't know what I'm capable of in this Language
+    or what needs to be done before I can even use it? 
+
+Actually put in the practice and build things 
+Figure out what you need? 
+
+How do I know I've learned enough? You can teach it to someone else. Probably still don't know enough
+but that's okay
+
+Open terminal 
+- use man <command> OR 
+- <command> --help (this lists all things that can be done with that?)
+
+Use it, mess it up, start over, try again, mess it up again. 
+
+Tools - OverTheWire offers Bandit to help you learn terminal commands

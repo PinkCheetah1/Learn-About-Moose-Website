@@ -6,7 +6,12 @@
 | | | |
 
 ### Software Description 
-At a high level, describe the software you plan to create that will fulfill the requirements of this module.  This may change as you learn more about the technology or language you are learning.
+I plan to write a simple web page and describes some things about moose. It will be a simple, informational
+page about why moose are the best ever. It will also describe why I want to ride a moose. 
+This page will have lots of pictures of great moose and descriptions about why they are great
+and fun buttons you can press that do nothing (yet). 
+I think there will also be links to websites about moose if that is possible. We'll see. 
+I will later develop this into a page that has fun buttons you CAN press with lots of moose things. 
 
 ### Module
 Mark an **X** next to the module you are planning
@@ -19,7 +24,7 @@ Mark an **X** next to the module you are planning
 |GIS Mapping              | | Erlang                   | |
 |Mobile App               | | JavaScript               | |
 |Networking               | | C#                       | |
-|Web Apps                 | | TypeScript               | |
+|Web Apps                 |X| TypeScript               | |
 |Language – C++           | | Rust                     | |
 |SQL Relational Databases | |Choose Your Own Adventure | |
 
