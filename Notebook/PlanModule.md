@@ -31,30 +31,31 @@ Mark an **X** next to the module you are planning
 ### Create a Schedule
 Create a detailed schedule using the table below to complete your selected module during this Sprint.  Include details such as what (task), when (time), where (location), and duration.  You should also include time to work on your team project.  You are expected to spend 16 hours every Sprint working on your individual module, team project, and other activities. Time spent on this individual module should be at least 10 hours.
 
-|             |First Week|Second Week|
+|             |What|Where|
 |-------------|----------|-----------|
-|**Monday**   | | |		
+|**Monday**   |2h - Polish and Fill in. Practice Nav. Fill in all Content. 30m - Expand/Stretch. 30m - Video/Submit (END)| At Home |		
 |**Tuesday**  | | |
 |**Wednesday**| | |		
 |**Thursday** | | |
-|**Friday**   | | |		
-|**Saturday** | | |
+|**Friday**   |(START) 1h - Setup. 3h - Learn basics and practice. Start page basics.| On Campus |		
+|**Saturday** |2h - Fill out page. Make second page. Find/Write some content. - Learn use with JS/CSS (bare-bones). | At Home or in MC |
 
 
 ### Identify Risks
 Identify at least two risks that you feel will make it difficult to succeed in this module.  Identify an action plan to overcome each of these risks.
 
 #### Risk 1
-<!-- Detail the risk here -->
+Not having enough to do, since HTML is pretty simple
 
 ##### Action Plan
-<!-- Detail the plan to over come the risk here -->
+As researching, make running list of possible stretch projects or things to research. Leave room for exploring CSS/JS inclusion.
 
 #### Risk 2
-<!-- Detail the risk here -->
+Not actually getting the work done ._. 
 
 ##### Action Plan
-<!-- Detail the plan to over come the risk here -->
+Fill out calendar with all scheduled activities to ensure everything will actually fit. Set aside space/time for research and work. 
+Use ChatGPT if I get confused, frustrated, or stressed. Eliminate roadblocks and then continue working. 
 
 
 <!-- Create this Markdown to a PDF and submit it. In visual studio code you can convert this to a pdf with any one of the extensions. -->
