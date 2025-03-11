@@ -1,1 +1,12 @@
 RESOURCES: 
+
+
+
+
+CSS Properties:
+    color
+    background-color
+    font-family
+    font-size
+    text-align
+    
