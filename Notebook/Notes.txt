@@ -10,3 +10,8 @@ CSS Properties:
     font-size
     text-align
     
+
+CSS 3 ways: 
+    Inline - applies to a single element
+    Internal - applying style to file <head> 
+    External - applying link to external CSS 

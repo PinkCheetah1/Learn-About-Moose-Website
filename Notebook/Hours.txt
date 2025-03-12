@@ -1,2 +1,4 @@
-FRI 3:10-4:10 | Setup, learning some stuff
-MON 4:45 - | Attributes to CSS Style
+FRI 3:10-4:10 | Setup, learning some stuff | 1h
+MON 4:45-5:45 | Attributes to CSS | 1h
+TUE 3:50-6:15 | CSS Style to Lists | 2.5h
+Wed 2:15- | Adding more Functionality to Page, Adding New Page 
