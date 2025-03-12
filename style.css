@@ -1,0 +1,46 @@
+body {
+    background-color:antiquewhite
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+/* Links */
+a:link {
+    color: saddlebrown;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: sienna;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: firebrick;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+/* Tables */
+
+table, td {
+    border:1px solid black;
+    border-collapse: collapse;
+    padding:5px;
+}
+th {
+    padding:10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
