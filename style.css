@@ -4,8 +4,15 @@ body {
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
+body {
+    margin-left: 50px;
+}
 h1, h2, h3 {
     font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+hr {
+    margin-left: 0px;
 }
 
 /* Links */
