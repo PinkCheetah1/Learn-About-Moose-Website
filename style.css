@@ -5,7 +5,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 body {
-    margin-left: 50px;
+    margin: 50px;
 }
 h1, h2, h3 {
     font-family: Georgia, 'Times New Roman', Times, serif
@@ -50,4 +50,12 @@ table, td {
 th {
     padding:10px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* FAQ Box Style */
+
+.faq {
+    padding: 20px;
+    background-color: burlywood;
+    color: brown;
 }
