@@ -4,3 +4,4 @@ TUE 3:50-6:15 | CSS Style to Lists | 2.5h (4.5 total)
 Wed 2:15-4:15 | Adding more Functionality to Page, Adding New Page | 2h (6.5 total)
 FRI 3:40-4:40 | Div to Layout | 1h (7.5 total) 
 FRI 10:30-12:00 | Images, Layout, semantics, forms | 1.5h (9 total)
+SAT 11:50-12:20 | Researched Convention 
