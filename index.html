@@ -6,62 +6,80 @@
         <link rel="stylesheet" href="style.css">
         <link rel="icon" type="image/x-icon" href="images\moose flavicon.ico">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta charset="UTF-8">
     </head>
 
     <!-- This BODY section contains everything displayed :D -->
     <body>
         <!-- Main Titles and Stuff -->
-        <h2>Moosen?</h2>
-        <h1>Moose</h1>
-        <p>
-            Moose are tall, majestic creatures.
-        </p>
-
+        <header>
+            <h2>Moosen?</h2>
+            <h1>Moose</h1>
+            <p>
+                Moose are tall, majestic creatures.
+            </p>
+        </header>
 
         <!-- Links to Other Pages -->
-        <button>This button does nothing lul</button>
-
-        <a href="facts.html" title="Moose Facts">
-            Moose Facts 
-        </a>
-        <br>
-
+        <nav>
+            <button>This button does nothing lul</button>
+            <a href="facts.html" title="Moose Facts">
+                Moose Facts 
+            </a>
+            <br>
+        </nav>
+            
+        <!-- Parts of a Moose -->
+        <section class="map-section">
+            <h3>Parts of a Moose</h3>
+            <h2>Click to learn about all the parts of a moose</h2>
+            <img src="images\Parts of a Moose.png" usemap="#moosemap" alt="Side profile of a Moose" style="width:512px;height:512px;">
+            <!-- Following areas generated with Map Maker -->
+            <map name="moosemap">
+                <area title="Antlers" alt="Antlers" href="" shape="rect" coords="489,65,329,161">
+                <area title="Snout" alt="Snout" href="" shape="circle" coords="460,234,28">
+                <area title="Beard" alt="Beard" href="" shape="poly" coords="406,294,434,243,381,237">
+                <area title="Legs" alt="Legs" href="" shape="rect" coords="345,454,18,300">
+                <area title="Butt" alt="Butt" href="" shape="circle" coords="94,215,54">
+                <area title="Shoulders" alt="Shoulders" href="" shape="poly" coords="234,151,289,129,325,145,325,168,246,173">
+            </map>
+        </section>
 
         <!-- Jump-To Link -->
-        <h3>Jump To...</h3>
-        <ul>
-            <li>
-                <a href="#Pic">Moose Pic</a>
-            </li>
-            <li>
-                <a href="#Poem">Moose Poem</a>
-            </li>
-        </ul>
-
+        <section class="jump-to">
+            <h3>Jump To...</h3>
+            <ul>
+                <li>
+                    <a href="#Pic">Moose Pic</a>
+                </li>
+                <li>
+                    <a href="#Poem">Moose Poem</a>
+                </li>
+            </ul>
+        </section>
 
         <!-- Images and Things -->
-        <h3>Learn More about Moose</h3>
-        <a href="https://www.all-about-moose.com/" title="Visit All-About-Moose.com" target="_blank"> More all about moose</a>
-        <hr>
-        <p id="Pic">Picture of a moose</p>
-        <img src="https://th.bing.com/th/id/OIP.MhrlqBSmEpOHpedRoeiH4AHaFD?rs=1&pid=ImgDetMain" alt="Moose next to humans"
-        width="600" height="400" title="Moose picture">
+        <section>
+            <h3>Learn More about Moose</h3>
+            <a href="https://www.all-about-moose.com/" title="Visit All-About-Moose.com" target="_blank"> More all about moose</a>
+            <hr>
+            <p id="Pic">Picture of a moose</p>
+            <img src="https://th.bing.com/th/id/OIP.MhrlqBSmEpOHpedRoeiH4AHaFD?rs=1&pid=ImgDetMain" alt="Moose next to humans"
+            width="600" height="400" title="Moose picture">
+        </section>
 
         <!-- Moose Haiku -->
-        <hr id="Poem">
-        <h2> Moose Poem</h2>
-        <h3> Moose Haiku </h3>
+        <article>
+            <hr id="Poem">
+            <h2> Moose Poem</h2>
+            <h3> Moose Haiku </h3>
+            <pre>
+        Roaming fields of grass.
 
-        <pre>
-    Roaming fields of grass.
+        The man, drives past me once more;
 
-    The man, drives past me once more;
-
-    I snuff him a snort.
-        </pre>
-
+        I snuff him a snort.
+            </pre>
+        </article>
     </body>
 </html>
-<!-- TODO Common questions about moosen (Can you ride a moose? Moose milk? MOosen? Meese? Meesenies? Meeses? Mooses?) -->
-
-<!-- TODO: Imagine I drew of a moose (internal img) -->
