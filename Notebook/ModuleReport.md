@@ -1,4 +1,4 @@
-# Module #<!-- Insert Module Number --> Report | CSE 310 C++
+# Module #4 Report | CSE 310 C++
 | | Rust | |
 |SQL Relational Databases | |Choose Your Own Adventure | |
 ### Fill Out the Checklist
